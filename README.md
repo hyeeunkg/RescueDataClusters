@@ -6,3 +6,6 @@ corr = df_numeric_categories.corr().loc[
 ]
 print(corr)          # if ≥ 0.9 they’re redundant
 ```
+```
+0.10839201896127426
+```
